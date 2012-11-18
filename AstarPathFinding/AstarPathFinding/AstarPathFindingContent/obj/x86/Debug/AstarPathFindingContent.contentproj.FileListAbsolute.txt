@@ -1,0 +1,2 @@
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFindingContent\obj\x86\Debug\AstarPathFindingContent.contentprojResolveAssemblyReference.cache
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFindingContent\obj\x86\Debug\AstarPathFindingContent.contentprojResolveAssemblyReference.cache

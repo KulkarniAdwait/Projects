@@ -1,0 +1,15 @@
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\AstarPathFinding.exe
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\AstarPathFinding.pdb
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.csprojResolveAssemblyReference.cache
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.exe
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.pdb
+C:\Users\Adwait\Documents\Visual Studio 2010\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\pathPoint.xnb
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\pathPoint.xnb
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\AstarPathFinding.exe
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\AstarPathFinding.pdb
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.csprojResolveAssemblyReference.cache
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.exe
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.pdb
+D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\movingPart.xnb
