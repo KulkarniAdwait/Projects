@@ -1,0 +1,12 @@
+Content\right_guard.xnb
+Content\left_guard.xnb
+Content\left_punch.xnb
+Content\right_punch.xnb
+Content\punch_line.xnb
+Content\SpriteFont1.xnb
+Content\left_hook.xnb
+Content\left_uppercut.xnb
+Content\right_hook.xnb
+Content\right_uppercut.xnb
+Content\StartButton.xnb
+Content\tutorialButton.xnb

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>right_guard.png</Source>
+      <Name>right_guard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\right_guard.xnb</Output>
+      <Time>2013-03-17T22:24:05.4530101-04:00</Time>
+    </Item>
+    <Item>
+      <Source>left_guard.png</Source>
+      <Name>left_guard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\left_guard.xnb</Output>
+      <Time>2013-03-17T22:25:24.2638272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>left_punch.png</Source>
+      <Name>left_punch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\left_punch.xnb</Output>
+      <Time>2013-04-02T17:13:02.7595323-04:00</Time>
+    </Item>
+    <Item>
+      <Source>right_punch.png</Source>
+      <Name>right_punch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\right_punch.xnb</Output>
+      <Time>2013-04-02T17:12:39.1566909-04:00</Time>
+    </Item>
+    <Item>
+      <Source>punch_line.png</Source>
+      <Name>punch_line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\punch_line.xnb</Output>
+      <Time>2013-03-18T01:44:26.2630169-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-03-28T22:22:03.8608688-04:00</Time>
+    </Item>
+    <Item>
+      <Source>left_hook.png</Source>
+      <Name>left_hook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\left_hook.xnb</Output>
+      <Time>2013-04-02T17:08:42.0460581-04:00</Time>
+    </Item>
+    <Item>
+      <Source>left_uppercut.png</Source>
+      <Name>left_uppercut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\left_uppercut.xnb</Output>
+      <Time>2013-04-02T17:09:21.3533063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>right_hook.png</Source>
+      <Name>right_hook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\right_hook.xnb</Output>
+      <Time>2013-04-02T16:55:19.3831484-04:00</Time>
+    </Item>
+    <Item>
+      <Source>right_uppercut.png</Source>
+      <Name>right_uppercut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\right_uppercut.xnb</Output>
+      <Time>2013-04-02T17:01:22.2789048-04:00</Time>
+    </Item>
+    <Item>
+      <Source>StartButton.png</Source>
+      <Name>StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\StartButton.xnb</Output>
+      <Time>2013-04-18T18:12:48.2480692-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialButton.png</Source>
+      <Name>tutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tutorialButton.xnb</Output>
+      <Time>2013-04-18T17:04:27-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\GitHub\Projects\Projects\HCI prototype\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-01T21:47:24.0618935-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
