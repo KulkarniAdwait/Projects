@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\pathPoint.xnb</Output>
+      <Output>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\pathPoint.xnb</Output>
       <Time>2012-11-12T21:44:54.4141182-05:00</Time>
     </Item>
     <Item>
@@ -16,8 +16,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\movingPart.xnb</Output>
+      <Output>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\movingPart.xnb</Output>
       <Time>2012-11-15T11:11:07.3907308-05:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-04-18T19:15:28.0406435-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +34,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFindingContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFindingContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFindingContent\</RootDirectory>
+      <LoggerRootDirectory>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFindingContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

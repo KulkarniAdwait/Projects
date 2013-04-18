@@ -38,12 +38,14 @@ namespace AstarPathFinding
         PathFinder pathFinder;
         Texture2D pathPoint;
         bool[,] isWalkable;
+        SpriteFont font;
 
         Vector2 newPosition;
         Vector2[] path;
         Vector2[] oldPath;
         int pathIndex = 0;
         int oldPathIndex = 0;
+        private Vector2 textPosition;
 
         public Game1()
         {
@@ -118,6 +120,10 @@ namespace AstarPathFinding
 
             position = start * GridSize;
             targetGridPosition = end;
+
+            //text position
+            textPosition = new Vector2(gridColumns, (gridRows - 1) * GridSize);
+
             base.Initialize();
         }
 
@@ -131,6 +137,7 @@ namespace AstarPathFinding
             spriteBatch = new SpriteBatch(GraphicsDevice);
             pathPoint = Content.Load<Texture2D>("pathPoint");
             movingPart = Content.Load<Texture2D>("movingPart");
+            font = Content.Load<SpriteFont>("font");
             // TODO: use this.Content to load your game content here
         }
 
@@ -299,6 +306,7 @@ namespace AstarPathFinding
             }
         }
 
+        
         /// <summary>
         /// This is called when the game should draw itself.
         /// </summary>
@@ -348,7 +356,7 @@ namespace AstarPathFinding
                     spriteBatch.Draw(pathPoint, new Rectangle((int)path[i].X * (GridSize), (int)path[i].Y * (GridSize), 10, 10), color);
                 }
             }
-
+            spriteBatch.DrawString(font, "Left click: place/remove barrier; Right click: begin chase; Arrows: move target", textPosition, Color.White);
             spriteBatch.End();
             base.Draw(gameTime);
         }

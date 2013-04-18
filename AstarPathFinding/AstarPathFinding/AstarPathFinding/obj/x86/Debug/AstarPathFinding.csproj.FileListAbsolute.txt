@@ -13,3 +13,12 @@ D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\M
 D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.exe
 D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.pdb
 D:\Hamsterdam\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\movingPart.xnb
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\pathPoint.xnb
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\movingPart.xnb
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\Content\font.xnb
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\AstarPathFinding.exe
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\bin\x86\Debug\AstarPathFinding.pdb
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.csprojResolveAssemblyReference.cache
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.exe
+D:\GitHub\Projects\Projects\AstarPathFinding\AstarPathFinding\AstarPathFinding\obj\x86\Debug\AstarPathFinding.pdb
