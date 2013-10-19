@@ -65,15 +65,15 @@ namespace WindowsGame1
             combinations.Add(combo1);
             combo1 = null;
 
-            //3 2
-            combo1 = new List<Punch>();
-            combo1.Add(new LeftHook(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
-            combo1.Add(new RightPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
-            combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
-            combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
-            combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
-            combinations.Add(combo1);
-            combo1 = null;
+            ////3 2
+            //combo1 = new List<Punch>();
+            //combo1.Add(new LeftHook(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            //combo1.Add(new RightPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            //combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
+            //combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
+            //combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
+            //combinations.Add(combo1);
+            //combo1 = null;
 
             //2 3 2
             combo1 = new List<Punch>();
@@ -90,7 +90,7 @@ namespace WindowsGame1
             combo1 = new List<Punch>();
             combo1.Add(new LeftPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             combo1.Add(new RightPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
-            combo1.Add(new LeftHook(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            combo1.Add(new LeftUppercut(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
             combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
             combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
@@ -103,6 +103,18 @@ namespace WindowsGame1
             combo1.Add(new RightPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             combo1.Add(new LeftHook(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             combo1.Add(new RightPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
+            combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
+            combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
+            combinations.Add(combo1);
+            combo1 = null;
+
+            //1 2 3 2
+            combo1 = new List<Punch>();
+            combo1.Add(new LeftPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            combo1.Add(new RightPunch(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            combo1.Add(new LeftHook(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            combo1.Add(new RightUppercut(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
             combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
             combo1.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));

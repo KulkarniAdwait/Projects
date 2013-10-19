@@ -23,7 +23,7 @@ namespace WindowsGame1
             pvGuard = new Vector2(3 * GameWidth / 4, GuardY);
             ovGuard = new Vector2(rGuard.Width / 2, 0);
 
-            rPunch = new Rectangle(0, 0, 450, 450);
+            rPunch = new Rectangle(0, 0, 386, 338);
             pvPunch = new Vector2(GameWidth / 4, GameHeight);
             ovPunch = new Vector2(rPunch.Width / 2, 0);
 
@@ -35,7 +35,7 @@ namespace WindowsGame1
 
             base.SetStartingPositions(pvGuard, pvPunch);
 
-            punchName = "Left Jab";
+            punchName = "Throw a Left Jab";
         }
     }
 }

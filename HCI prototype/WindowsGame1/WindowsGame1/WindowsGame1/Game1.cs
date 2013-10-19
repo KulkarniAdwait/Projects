@@ -28,7 +28,7 @@ namespace WindowsGame1
         const float sGuard = 0.3f;
         const float sPunch = 0.5f;
 
-        public float ScrollSpeed = 0.05f;
+        public float ScrollSpeed = 0.025f;
         public const float GUARD_Y = GAME_HEIGHT / 4.0f;
 
         int mLeft = 0;
@@ -68,7 +68,7 @@ namespace WindowsGame1
 
             graphics.PreferredBackBufferWidth = GAME_WIDTH;
             graphics.PreferredBackBufferHeight = GAME_HEIGHT;
-            graphics.IsFullScreen = false;
+            graphics.IsFullScreen = true;
             graphics.ApplyChanges();
             base.Initialize();
         }
@@ -95,7 +95,7 @@ namespace WindowsGame1
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         KeyboardState oldKbState;
         KeyboardState newKbState;
-        float SCROLL_INCREMENT = 0.015f;
+        float SCROLL_INCREMENT = 0.005f;
         protected override void Update(GameTime gameTime)
         {
             newKbState = Keyboard.GetState();
@@ -167,6 +167,7 @@ namespace WindowsGame1
             else if (gameState == GameState.Tutorial)
             {
                 tutorial.Draw(gameTime, spriteBatch, font);
+                spriteBatch.Draw(tPunchLine, rPunchLine, Color.White);
             }
             else
             {

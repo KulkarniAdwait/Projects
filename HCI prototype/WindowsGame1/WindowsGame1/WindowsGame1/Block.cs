@@ -27,6 +27,7 @@ namespace WindowsGame1
             tGuard = Content.Load<Texture2D>("left_guard");
             tPunch = Content.Load<Texture2D>("right_guard");
 
+            punchName = "Remember to keep your hands up when not punching!";
             base.SetStartingPositions(pvGuard, pvPunch);
         }
 

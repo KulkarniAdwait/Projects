@@ -23,6 +23,7 @@ namespace WindowsGame1
             tutorial.Add(new RightHook(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             tutorial.Add(new LeftUppercut(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
             tutorial.Add(new RightUppercut(Content, GameWidth, GameHeight, GuardY, ScaleGuard, ScalePunch));
+            tutorial.Add(new Block(Content, GameWidth, GameHeight, GuardY, ScaleGuard));
         }
 
         KeyboardState oldKbState;
@@ -37,6 +38,7 @@ namespace WindowsGame1
                     currentPunch++;
                     if (currentPunch >= tutorial.Count)
                     {
+                        currentPunch = 0;
                         return true;
                     }
                 }
@@ -45,13 +47,13 @@ namespace WindowsGame1
             return false;
         }
 
-        Vector2 tutTextPosition = new Vector2(550, 100);
+        Vector2 tutTextPosition = new Vector2(500, 100);
         public void Draw(GameTime gameTime, SpriteBatch spriteBatch, SpriteFont font)
         {
             tutorial[currentPunch].isActive = true;
             tutorial[currentPunch].isTutorial = true;
             tutorial[currentPunch].Draw(gameTime, spriteBatch, 0.0f);
-            spriteBatch.DrawString(font, "Throw a " + tutorial[currentPunch].punchName, tutTextPosition, Color.Black);
+            spriteBatch.DrawString(font, tutorial[currentPunch].punchName, tutTextPosition, Color.Black);
         }
     }
 }
